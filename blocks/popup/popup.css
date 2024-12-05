@@ -1,12 +1,12 @@
-@import url('/site2/blocks/popup/__content/popup__content.css');
-@import url('/site2/blocks/popup/__content/_content/popup__content_content_image.css');
-@import url('/site2/blocks/popup/__close/popup__close.css');
-@import url('/site2/blocks/popup/__title/popup__title.css');
-@import url('/site2/blocks/popup/__form/popup__form.css');
-@import url('/site2/blocks/popup/__input/popup__input.css');
-@import url('/site2/blocks/popup/__button/popup__button.css');
-@import url('/site2/blocks/popup/__caption/popup__caption.css');
-@import url('/site2/blocks/popup/__image/popup__image.css');
+@import url('./__content/popup__content.css');
+@import url('./__content/_content/popup__content_content_image.css');
+@import url('./__close/popup__close.css');
+@import url('./__title/popup__title.css');
+@import url('./__form/popup__form.css');
+@import url('./__input/popup__input.css');
+@import url('./__button/popup__button.css');
+@import url('./__caption/popup__caption.css');
+@import url('./__image/popup__image.css');
 
 .popup {
   font-family: 'Inter', Arial, sans-serif;
